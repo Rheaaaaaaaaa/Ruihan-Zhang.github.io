@@ -8,4 +8,4 @@ output:
 ---
 
 
-Here's a direct link to the experience page: [experience](experience.html).
+Here's a direct link to a page giving my academic and professional experience: [experience](experience.html).
